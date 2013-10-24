@@ -72,7 +72,7 @@ body, p, div, span, li { font-family: HelveticaNeueW01, Helvetica, Arial, sans-s
 
 a, a:hover, a:visited { color:#662e91; }
 #xsBread a { color:#662e91;text-decoration:none; }
-#xsBread a:hover { color:red;text-decoration:none;border-bottom:solid 1px #662e91;padding-bottom:3px; }
+#xsBread a:hover { color:#662e91;text-decoration:none;border-bottom:solid 1px #662e91;padding-bottom:3px; }
 .item .title a, .item .title a:link { color:#662e91; }
 .item .title a:visited { color:#662e91; }
 #xsBarInner a { color:white; }
