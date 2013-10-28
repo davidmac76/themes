@@ -111,6 +111,12 @@ button:hover, .buttons a:hover{
 
 
 
+.xs-context-menu {
+    margin-top:45px !important;
+}
+
+
+
 .widget-menu {
     margin:0;padding:0;background-color:inherit;color:inherit;
 }
