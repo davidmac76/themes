@@ -69,6 +69,7 @@ body, p, div, span, li { font-family: HelveticaNeueW01, Helvetica, Arial, sans-s
 
 
 
+.color-pink .xs-content { color:white !important ; }
 
 a, a:hover, a:visited { color:#662e91; }
 #xsBread a { color:#662e91;text-decoration:none; }
